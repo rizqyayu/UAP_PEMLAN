@@ -12,7 +12,6 @@ public class RembulanMart extends JFrame {
     JPanel main = new JPanel(card);
 
     final String MASTER = "barang_master.txt";
-    final String TRANS = "transaksi.txt";
 
     HashMap<String,String[]> master = new HashMap<>();
 

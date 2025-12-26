@@ -1,0 +1,4 @@
+12B,sabun,5000
+11D,sikat,2000
+21D,kipas,250000
+bnk123,boneka,5000
